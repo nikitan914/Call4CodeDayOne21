@@ -1,4 +1,5 @@
 # Day One Relief - Call For Code
+### Risk Analysis, Prediction and Preparedness for Disaster Relief
 
 <img src="readme/day1call.png" />
 
@@ -14,7 +15,7 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
 
 ## Contents
 
-- [project name](#submission-or-project-name) 
+- [Project name](#project-name) 
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
@@ -33,6 +34,11 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
   
+
+## Project Name
+Risk Analysis, Prediction and Preparedness for Disaster Relief
+
+
 
 
 ## Short description
@@ -85,10 +91,9 @@ To-Do
 <ul><li><a href="https://developer.foursquare.com/docs/places-api">Four-Square APIs for North Carolina Venues</a>/li><ul>
 </ul>
   
-##  Long description
+## Long description
 
 ### Day One Relief - Call for Code submission contains below projects 
-
 
 1.	A Interactive Web Based Dashboard of North Carolina
 2.	Jupyter Notebook based prediction - Predict which NC counties will be most at risk from a Hurricane or Tropical Storm 
@@ -130,10 +135,6 @@ And Critical locations, Venues and current temperatures & daily forecast for top
 
 
 ### Demo video  
-<video width="100" controls>
-  <source src="readme/Call4Code_video_ORIDashboard.mp4" type="video/mp4">  
-</video>
-
 
 
 
@@ -157,10 +158,10 @@ TO-DO
 
 ## Authors
 
-1. Jill Christensen
+1. Jil Christensen
 2. Nikita Nangia
 3. Zachary Haugan
-4. 
+4. Isshaan Oren Pilant
 
 ## License
 
