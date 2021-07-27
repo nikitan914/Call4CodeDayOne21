@@ -1,0 +1,1403 @@
+{"rows": [
+  {
+    "row": 0,
+    "city": "Charlotte",
+    "lat": 35.208,
+    "lng": -80.8304,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/118,63/forecast/hourly"
+  },
+  {
+    "row": 1,
+    "city": "Raleigh",
+    "lat": 35.8325,
+    "lng": -78.6435,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/73,59/forecast/hourly"
+  },
+  {
+    "row": 2,
+    "city": "Durham",
+    "lat": 35.9794,
+    "lng": -78.9031,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/63,64/forecast/hourly"
+  },
+  {
+    "row": 3,
+    "city": "Winston-Salem",
+    "lat": 36.1029,
+    "lng": -80.2611,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/14,64/forecast/hourly"
+  },
+  {
+    "row": 4,
+    "city": "Greensboro",
+    "lat": 36.0956,
+    "lng": -79.8269,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/29,65/forecast/hourly"
+  },
+  {
+    "row": 5,
+    "city": "Fayetteville",
+    "lat": 35.0846,
+    "lng": -78.9776,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/65,24/forecast/hourly"
+  },
+  {
+    "row": 6,
+    "city": "Asheville",
+    "lat": 35.5704,
+    "lng": -82.5536,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/55,73/forecast/hourly"
+  },
+  {
+    "row": 7,
+    "city": "Concord",
+    "lat": 35.3933,
+    "lng": -80.6366,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/125,72/forecast/hourly"
+  },
+  {
+    "row": 8,
+    "city": "Wilmington",
+    "lat": 34.21,
+    "lng": -77.8866,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/90,66/forecast/hourly"
+  },
+  {
+    "row": 9,
+    "city": "Hickory",
+    "lat": 35.7425,
+    "lng": -81.32300000000001,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/98,85/forecast/hourly"
+  },
+  {
+    "row": 10,
+    "city": "Gastonia",
+    "lat": 35.2494,
+    "lng": -81.1853,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/105,64/forecast/hourly"
+  },
+  {
+    "row": 11,
+    "city": "High Point",
+    "lat": 35.9907,
+    "lng": -79.9938,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/24,60/forecast/hourly"
+  },
+  {
+    "row": 12,
+    "city": "Cary",
+    "lat": 35.782,
+    "lng": -78.8191,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/67,56/forecast/hourly"
+  },
+  {
+    "row": 13,
+    "city": "Burlington",
+    "lat": 36.0758,
+    "lng": -79.4686,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/42,66/forecast/hourly"
+  },
+  {
+    "row": 14,
+    "city": "Greenville",
+    "lat": 35.5956,
+    "lng": -77.3768,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/29,61/forecast/hourly"
+  },
+  {
+    "row": 15,
+    "city": "Jacksonville",
+    "lat": 34.7288,
+    "lng": -77.3941,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/33,23/forecast/hourly"
+  },
+  {
+    "row": 16,
+    "city": "Chapel Hill",
+    "lat": 35.927,
+    "lng": -79.0391,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/58,61/forecast/hourly"
+  },
+  {
+    "row": 17,
+    "city": "Rocky Mount",
+    "lat": 35.9676,
+    "lng": -77.8048,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/102,68/forecast/hourly"
+  },
+  {
+    "row": 18,
+    "city": "Apex",
+    "lat": 35.7239,
+    "lng": -78.8728,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/65,53/forecast/hourly"
+  },
+  {
+    "row": 19,
+    "city": "Huntersville",
+    "lat": 35.4058,
+    "lng": -80.8727,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/116,72/forecast/hourly"
+  },
+  {
+    "row": 20,
+    "city": "Goldsboro",
+    "lat": 35.3778,
+    "lng": -77.972,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/100,42/forecast/hourly"
+  },
+  {
+    "row": 21,
+    "city": "New Bern",
+    "lat": 35.0955,
+    "lng": -77.0723,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/43,40/forecast/hourly"
+  },
+  {
+    "row": 22,
+    "city": "Kannapolis",
+    "lat": 35.4764,
+    "lng": -80.6403,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/124,76/forecast/hourly"
+  },
+  {
+    "row": 23,
+    "city": "Morehead City",
+    "lat": 34.7308,
+    "lng": -76.7387,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/57,26/forecast/hourly"
+  },
+  {
+    "row": 24,
+    "city": "Wilson",
+    "lat": 35.7312,
+    "lng": -77.9284,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/99,57/forecast/hourly"
+  },
+  {
+    "row": 25,
+    "city": "Pinehurst",
+    "lat": 35.1922,
+    "lng": -79.4684,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/47,27/forecast/hourly"
+  },
+  {
+    "row": 26,
+    "city": "Wake Forest",
+    "lat": 35.9629,
+    "lng": -78.5141,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/77,65/forecast/hourly"
+  },
+  {
+    "row": 27,
+    "city": "Indian Trail",
+    "lat": 35.0698,
+    "lng": -80.6457,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/126,58/forecast/hourly"
+  },
+  {
+    "row": 28,
+    "city": "Asheboro",
+    "lat": 35.7158,
+    "lng": -79.8129,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/32,49/forecast/hourly"
+  },
+  {
+    "row": 29,
+    "city": "Mooresville",
+    "lat": 35.5849,
+    "lng": -80.8265,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/117,80/forecast/hourly"
+  },
+  {
+    "row": 30,
+    "city": "Holly Springs",
+    "lat": 35.653,
+    "lng": -78.8397,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/67,50/forecast/hourly"
+  },
+  {
+    "row": 31,
+    "city": "Monroe",
+    "lat": 35.0061,
+    "lng": -80.5595,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/129,55/forecast/hourly"
+  },
+  {
+    "row": 32,
+    "city": "Sanford",
+    "lat": 35.4874,
+    "lng": -79.1772,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/56,41/forecast/hourly"
+  },
+  {
+    "row": 33,
+    "city": "Salisbury",
+    "lat": 35.6656,
+    "lng": -80.4909,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/128,85/forecast/hourly"
+  },
+  {
+    "row": 34,
+    "city": "Matthews",
+    "lat": 35.1195,
+    "lng": -80.7101,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/123,60/forecast/hourly"
+  },
+  {
+    "row": 35,
+    "city": "Smithfield",
+    "lat": 35.5131,
+    "lng": -78.3497,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/85,46/forecast/hourly"
+  },
+  {
+    "row": 36,
+    "city": "Garner",
+    "lat": 35.6934,
+    "lng": -78.6196,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/75,53/forecast/hourly"
+  },
+  {
+    "row": 37,
+    "city": "Fuquay-Varina",
+    "lat": 35.5958,
+    "lng": -78.7794,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/69,48/forecast/hourly"
+  },
+  {
+    "row": 38,
+    "city": "Cornelius",
+    "lat": 35.4725,
+    "lng": -80.8801,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/115,75/forecast/hourly"
+  },
+  {
+    "row": 39,
+    "city": "Morrisville",
+    "lat": 35.8367,
+    "lng": -78.8348,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/66,58/forecast/hourly"
+  },
+  {
+    "row": 40,
+    "city": "Lumberton",
+    "lat": 34.6312,
+    "lng": -79.0186,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/47,80/forecast/hourly"
+  },
+  {
+    "row": 41,
+    "city": "Mint Hill",
+    "lat": 35.1782,
+    "lng": -80.6533,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/125,63/forecast/hourly"
+  },
+  {
+    "row": 42,
+    "city": "Statesville",
+    "lat": 35.7842,
+    "lng": -80.8714,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/114,89/forecast/hourly"
+  },
+  {
+    "row": 43,
+    "city": "Shelby",
+    "lat": 35.2904,
+    "lng": -81.5451,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/92,64/forecast/hourly"
+  },
+  {
+    "row": 44,
+    "city": "Kinston",
+    "lat": 35.2748,
+    "lng": -77.5936,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/23,46/forecast/hourly"
+  },
+  {
+    "row": 45,
+    "city": "Thomasville",
+    "lat": 35.8813,
+    "lng": -80.0807,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/21,55/forecast/hourly"
+  },
+  {
+    "row": 46,
+    "city": "Boone",
+    "lat": 36.2111,
+    "lng": -81.6668,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/17,15/forecast/hourly"
+  },
+  {
+    "row": 47,
+    "city": "Forest City",
+    "lat": 35.3338,
+    "lng": -81.8702,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/80,65/forecast/hourly"
+  },
+  {
+    "row": 48,
+    "city": "Clayton",
+    "lat": 35.6591,
+    "lng": -78.4499,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/81,52/forecast/hourly"
+  },
+  {
+    "row": 49,
+    "city": "Kernersville",
+    "lat": 36.1066,
+    "lng": -80.0844,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/20,65/forecast/hourly"
+  },
+  {
+    "row": 50,
+    "city": "Lincolnton",
+    "lat": 35.4747,
+    "lng": -81.2385,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/102,73/forecast/hourly"
+  },
+  {
+    "row": 51,
+    "city": "Leland",
+    "lat": 34.2044,
+    "lng": -78.0277,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/85,66/forecast/hourly"
+  },
+  {
+    "row": 52,
+    "city": "Rockingham",
+    "lat": 34.9386,
+    "lng": -79.7608,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/37,14/forecast/hourly"
+  },
+  {
+    "row": 53,
+    "city": "Elizabeth City",
+    "lat": 36.2943,
+    "lng": -76.2361,
+    "apiurl": "https://api.weather.gov/gridpoints/AKQ/95,26/forecast/hourly"
+  },
+  {
+    "row": 54,
+    "city": "Roanoke Rapids",
+    "lat": 36.4452,
+    "lng": -77.6491,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/105,90/forecast/hourly"
+  },
+  {
+    "row": 55,
+    "city": "Carrboro",
+    "lat": 35.926,
+    "lng": -79.0878,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/57,61/forecast/hourly"
+  },
+  {
+    "row": 56,
+    "city": "Kill Devil Hills",
+    "lat": 36.0167,
+    "lng": -75.6699,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/87,88/forecast/hourly"
+  },
+  {
+    "row": 57,
+    "city": "Clemmons",
+    "lat": 36.0319,
+    "lng": -80.3861,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/9,60/forecast/hourly"
+  },
+  {
+    "row": 58,
+    "city": "Havelock",
+    "lat": 34.9078,
+    "lng": -76.8987,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/50,33/forecast/hourly"
+  },
+  {
+    "row": 59,
+    "city": "Swansboro",
+    "lat": 34.6958,
+    "lng": -77.1368,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/43,22/forecast/hourly"
+  },
+  {
+    "row": 60,
+    "city": "Henderson",
+    "lat": 36.3259,
+    "lng": -78.4155,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/79,82/forecast/hourly"
+  },
+  {
+    "row": 61,
+    "city": "Laurinburg",
+    "lat": 34.7597,
+    "lng": -79.4781,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/49,8/forecast/hourly"
+  },
+  {
+    "row": 62,
+    "city": "Wendell",
+    "lat": 35.7823,
+    "lng": -78.3962,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/82,58/forecast/hourly"
+  },
+  {
+    "row": 63,
+    "city": "Mount Airy",
+    "lat": 36.5083,
+    "lng": -80.6154,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/53,32/forecast/hourly"
+  },
+  {
+    "row": 64,
+    "city": "Lexington",
+    "lat": 35.8017,
+    "lng": -80.2682,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/15,51/forecast/hourly"
+  },
+  {
+    "row": 65,
+    "city": "North Wilkesboro",
+    "lat": 36.1728,
+    "lng": -81.139,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/36,15/forecast/hourly"
+  },
+  {
+    "row": 66,
+    "city": "Lenoir",
+    "lat": 35.9096,
+    "lng": -81.5247,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/90,92/forecast/hourly"
+  },
+  {
+    "row": 67,
+    "city": "Knightdale",
+    "lat": 35.7918,
+    "lng": -78.4955,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/79,58/forecast/hourly"
+  },
+  {
+    "row": 68,
+    "city": "Butner",
+    "lat": 36.1285,
+    "lng": -78.7502,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/68,71/forecast/hourly"
+  },
+  {
+    "row": 69,
+    "city": "Albemarle",
+    "lat": 35.3594,
+    "lng": -80.1915,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/20,31/forecast/hourly"
+  },
+  {
+    "row": 70,
+    "city": "Waxhaw",
+    "lat": 34.9364,
+    "lng": -80.7438,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/123,51/forecast/hourly"
+  },
+  {
+    "row": 71,
+    "city": "Morganton",
+    "lat": 35.7408,
+    "lng": -81.7003,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/85,84/forecast/hourly"
+  },
+  {
+    "row": 72,
+    "city": "Harrisburg",
+    "lat": 35.3124,
+    "lng": -80.6486,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/124,68/forecast/hourly"
+  },
+  {
+    "row": 73,
+    "city": "Murraysville",
+    "lat": 34.2919,
+    "lng": -77.8429,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/91,70/forecast/hourly"
+  },
+  {
+    "row": 74,
+    "city": "Eden",
+    "lat": 36.5028,
+    "lng": -79.7412,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/84,35/forecast/hourly"
+  },
+  {
+    "row": 75,
+    "city": "Mebane",
+    "lat": 36.0857,
+    "lng": -79.2763,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/49,67/forecast/hourly"
+  },
+  {
+    "row": 76,
+    "city": "Mount Holly",
+    "lat": 35.3136,
+    "lng": -81.0072,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/112,67/forecast/hourly"
+  },
+  {
+    "row": 77,
+    "city": "Stallings",
+    "lat": 35.1088,
+    "lng": -80.6597,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/125,59/forecast/hourly"
+  },
+  {
+    "row": 78,
+    "city": "Washington",
+    "lat": 35.5587,
+    "lng": -77.0545,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/41,61/forecast/hourly"
+  },
+  {
+    "row": 79,
+    "city": "Archer Lodge",
+    "lat": 35.6907,
+    "lng": -78.3749,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/83,54/forecast/hourly"
+  },
+  {
+    "row": 80,
+    "city": "Hope Mills",
+    "lat": 34.969,
+    "lng": -78.9559,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/66,19/forecast/hourly"
+  },
+  {
+    "row": 81,
+    "city": "Graham",
+    "lat": 36.0596,
+    "lng": -79.3892,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/45,66/forecast/hourly"
+  },
+  {
+    "row": 82,
+    "city": "Dunn",
+    "lat": 35.3113,
+    "lng": -78.6129,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/77,36/forecast/hourly"
+  },
+  {
+    "row": 83,
+    "city": "Southern Pines",
+    "lat": 35.1927,
+    "lng": -79.404,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/49,27/forecast/hourly"
+  },
+  {
+    "row": 84,
+    "city": "Lewisville",
+    "lat": 36.103,
+    "lng": -80.4164,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/8,63/forecast/hourly"
+  },
+  {
+    "row": 85,
+    "city": "Hendersonville",
+    "lat": 35.3242,
+    "lng": -82.4576,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/59,62/forecast/hourly"
+  },
+  {
+    "row": 86,
+    "city": "Reidsville",
+    "lat": 36.3377,
+    "lng": -79.6727,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/88,28/forecast/hourly"
+  },
+  {
+    "row": 87,
+    "city": "Oak Island",
+    "lat": 33.9434,
+    "lng": -78.1366,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/83,54/forecast/hourly"
+  },
+  {
+    "row": 88,
+    "city": "Piney Green",
+    "lat": 34.7498,
+    "lng": -77.3208,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/36,24/forecast/hourly"
+  },
+  {
+    "row": 89,
+    "city": "Brevard",
+    "lat": 35.2439,
+    "lng": -82.7264,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/50,58/forecast/hourly"
+  },
+  {
+    "row": 90,
+    "city": "Marion",
+    "lat": 35.6774,
+    "lng": -82.0013,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/74,80/forecast/hourly"
+  },
+  {
+    "row": 91,
+    "city": "Newton",
+    "lat": 35.663000000000004,
+    "lng": -81.2333,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/102,82/forecast/hourly"
+  },
+  {
+    "row": 92,
+    "city": "Davidson",
+    "lat": 35.4846,
+    "lng": -80.8252,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/117,75/forecast/hourly"
+  },
+  {
+    "row": 93,
+    "city": "Tarboro",
+    "lat": 35.9046,
+    "lng": -77.5563,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/112,67/forecast/hourly"
+  },
+  {
+    "row": 94,
+    "city": "Belmont",
+    "lat": 35.2211,
+    "lng": -81.0402,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/111,63/forecast/hourly"
+  },
+  {
+    "row": 95,
+    "city": "Elon",
+    "lat": 36.1014,
+    "lng": -79.5085,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/41,67/forecast/hourly"
+  },
+  {
+    "row": 96,
+    "city": "Spring Lake",
+    "lat": 35.1842,
+    "lng": -78.9959,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/64,29/forecast/hourly"
+  },
+  {
+    "row": 97,
+    "city": "Archdale",
+    "lat": 35.9033,
+    "lng": -79.9592,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/25,56/forecast/hourly"
+  },
+  {
+    "row": 98,
+    "city": "Summerfield",
+    "lat": 36.1973,
+    "lng": -79.8997,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/26,70/forecast/hourly"
+  },
+  {
+    "row": 99,
+    "city": "Weddington",
+    "lat": 35.0228,
+    "lng": -80.7383,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/123,55/forecast/hourly"
+  },
+  {
+    "row": 100,
+    "city": "Kings Mountain",
+    "lat": 35.2348,
+    "lng": -81.3501,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/99,62/forecast/hourly"
+  },
+  {
+    "row": 101,
+    "city": "Myrtle Grove",
+    "lat": 34.123000000000005,
+    "lng": -77.8834,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/91,63/forecast/hourly"
+  },
+  {
+    "row": 102,
+    "city": "Waynesville",
+    "lat": 35.4854,
+    "lng": -82.9995,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/39,68/forecast/hourly"
+  },
+  {
+    "row": 103,
+    "city": "Winterville",
+    "lat": 35.5287,
+    "lng": -77.3994,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/28,58/forecast/hourly"
+  },
+  {
+    "row": 104,
+    "city": "Oxford",
+    "lat": 36.3155,
+    "lng": -78.5848,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/73,80/forecast/hourly"
+  },
+  {
+    "row": 105,
+    "city": "Roxboro",
+    "lat": 36.3879,
+    "lng": -78.9812,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/58,82/forecast/hourly"
+  },
+  {
+    "row": 106,
+    "city": "Siler City",
+    "lat": 35.7252,
+    "lng": -79.4561,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/44,50/forecast/hourly"
+  },
+  {
+    "row": 107,
+    "city": "St. Stephens",
+    "lat": 35.7641,
+    "lng": -81.2746,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/100,86/forecast/hourly"
+  },
+  {
+    "row": 108,
+    "city": "Clinton",
+    "lat": 35.0005,
+    "lng": -78.3311,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/89,23/forecast/hourly"
+  },
+  {
+    "row": 109,
+    "city": "Wesley Chapel",
+    "lat": 34.9985,
+    "lng": -80.6905,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/124,54/forecast/hourly"
+  },
+  {
+    "row": 110,
+    "city": "Pineville",
+    "lat": 35.0864,
+    "lng": -80.8915,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/117,58/forecast/hourly"
+  },
+  {
+    "row": 111,
+    "city": "Kings Grant",
+    "lat": 34.2665,
+    "lng": -77.8659,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/91,69/forecast/hourly"
+  },
+  {
+    "row": 112,
+    "city": "Conover",
+    "lat": 35.7155,
+    "lng": -81.217,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/102,84/forecast/hourly"
+  },
+  {
+    "row": 113,
+    "city": "Rolesville",
+    "lat": 35.9224,
+    "lng": -78.4656,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/79,63/forecast/hourly"
+  },
+  {
+    "row": 114,
+    "city": "Ogden",
+    "lat": 34.2656,
+    "lng": -77.7965,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/93,69/forecast/hourly"
+  },
+  {
+    "row": 115,
+    "city": "Fletcher",
+    "lat": 35.4316,
+    "lng": -82.5038,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/57,67/forecast/hourly"
+  },
+  {
+    "row": 116,
+    "city": "Half Moon",
+    "lat": 34.8298,
+    "lng": -77.4591,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/30,27/forecast/hourly"
+  },
+  {
+    "row": 117,
+    "city": "Lake Norman of Catawba",
+    "lat": 35.5995,
+    "lng": -80.984,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/111,80/forecast/hourly"
+  },
+  {
+    "row": 118,
+    "city": "Black Mountain",
+    "lat": 35.6142,
+    "lng": -82.3275,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/63,76/forecast/hourly"
+  },
+  {
+    "row": 119,
+    "city": "Aberdeen",
+    "lat": 35.135,
+    "lng": -79.4326,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/48,24/forecast/hourly"
+  },
+  {
+    "row": 120,
+    "city": "Etowah",
+    "lat": 35.3061,
+    "lng": -82.5902,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/54,61/forecast/hourly"
+  },
+  {
+    "row": 121,
+    "city": "Porters Neck",
+    "lat": 34.2942,
+    "lng": -77.7695,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/94,71/forecast/hourly"
+  },
+  {
+    "row": 122,
+    "city": "Mills River",
+    "lat": 35.3853,
+    "lng": -82.5854,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/54,65/forecast/hourly"
+  },
+  {
+    "row": 123,
+    "city": "Pembroke",
+    "lat": 34.6766,
+    "lng": -79.1934,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/40,81/forecast/hourly"
+  },
+  {
+    "row": 124,
+    "city": "Gibsonville",
+    "lat": 36.0991,
+    "lng": -79.5417,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/39,67/forecast/hourly"
+  },
+  {
+    "row": 125,
+    "city": "Whiteville",
+    "lat": 34.3306,
+    "lng": -78.7013,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/60,68/forecast/hourly"
+  },
+  {
+    "row": 126,
+    "city": "Franklin",
+    "lat": 35.1798,
+    "lng": -83.3808,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/26,53/forecast/hourly"
+  },
+  {
+    "row": 127,
+    "city": "Unionville",
+    "lat": 35.0716,
+    "lng": -80.5173,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/130,58/forecast/hourly"
+  },
+  {
+    "row": 128,
+    "city": "Hillsborough",
+    "lat": 36.0681,
+    "lng": -79.0994,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/55,67/forecast/hourly"
+  },
+  {
+    "row": 129,
+    "city": "Selma",
+    "lat": 35.5436,
+    "lng": -78.2954,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/87,47/forecast/hourly"
+  },
+  {
+    "row": 130,
+    "city": "Oak Ridge",
+    "lat": 36.174,
+    "lng": -79.9916,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/23,68/forecast/hourly"
+  },
+  {
+    "row": 131,
+    "city": "King",
+    "lat": 36.2766,
+    "lng": -80.3564,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/63,22/forecast/hourly"
+  },
+  {
+    "row": 132,
+    "city": "Marvin",
+    "lat": 34.989000000000004,
+    "lng": -80.8032,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/120,54/forecast/hourly"
+  },
+  {
+    "row": 133,
+    "city": "Woodfin",
+    "lat": 35.6458,
+    "lng": -82.5914,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/53,76/forecast/hourly"
+  },
+  {
+    "row": 134,
+    "city": "Cherryville",
+    "lat": 35.3844,
+    "lng": -81.3781,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/98,69/forecast/hourly"
+  },
+  {
+    "row": 135,
+    "city": "Trinity",
+    "lat": 35.8756,
+    "lng": -80.0093,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/24,55/forecast/hourly"
+  },
+  {
+    "row": 136,
+    "city": "Elkin",
+    "lat": 36.2621,
+    "lng": -80.8441,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/46,20/forecast/hourly"
+  },
+  {
+    "row": 137,
+    "city": "Silver Lake",
+    "lat": 34.1408,
+    "lng": -77.90899999999999,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/90,63/forecast/hourly"
+  },
+  {
+    "row": 138,
+    "city": "Carolina Beach",
+    "lat": 34.0396,
+    "lng": -77.8966,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/91,59/forecast/hourly"
+  },
+  {
+    "row": 139,
+    "city": "Cullowhee",
+    "lat": 35.3107,
+    "lng": -83.1815,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/33,60/forecast/hourly"
+  },
+  {
+    "row": 140,
+    "city": "Tabor City",
+    "lat": 34.1538,
+    "lng": -78.8737,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/55,60/forecast/hourly"
+  },
+  {
+    "row": 141,
+    "city": "Hamlet",
+    "lat": 34.8891,
+    "lng": -79.7099,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/39,12/forecast/hourly"
+  },
+  {
+    "row": 142,
+    "city": "Boiling Spring Lakes",
+    "lat": 34.0322,
+    "lng": -78.068,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/85,58/forecast/hourly"
+  },
+  {
+    "row": 143,
+    "city": "St. James",
+    "lat": 33.9467,
+    "lng": -78.1132,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/84,54/forecast/hourly"
+  },
+  {
+    "row": 144,
+    "city": "Zebulon",
+    "lat": 35.8318,
+    "lng": -78.3162,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/85,60/forecast/hourly"
+  },
+  {
+    "row": 145,
+    "city": "Hampstead",
+    "lat": 34.3627,
+    "lng": -77.7318,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/95,74/forecast/hourly"
+  },
+  {
+    "row": 146,
+    "city": "East Flat Rock",
+    "lat": 35.2802,
+    "lng": -82.4171,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/61,61/forecast/hourly"
+  },
+  {
+    "row": 147,
+    "city": "Bessemer City",
+    "lat": 35.2841,
+    "lng": -81.283,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/102,65/forecast/hourly"
+  },
+  {
+    "row": 148,
+    "city": "Nashville",
+    "lat": 35.9692,
+    "lng": -77.9555,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/97,68/forecast/hourly"
+  },
+  {
+    "row": 149,
+    "city": "Taylorsville",
+    "lat": 35.9175,
+    "lng": -81.1754,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/103,93/forecast/hourly"
+  },
+  {
+    "row": 150,
+    "city": "Stokesdale",
+    "lat": 36.2318,
+    "lng": -79.9834,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/23,71/forecast/hourly"
+  },
+  {
+    "row": 151,
+    "city": "Manteo",
+    "lat": 35.9013,
+    "lng": -75.661,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/89,83/forecast/hourly"
+  },
+  {
+    "row": 152,
+    "city": "Angier",
+    "lat": 35.512,
+    "lng": -78.7405,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/71,44/forecast/hourly"
+  },
+  {
+    "row": 153,
+    "city": "Mocksville",
+    "lat": 35.9006,
+    "lng": -80.5631,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/125,95/forecast/hourly"
+  },
+  {
+    "row": 154,
+    "city": "James City",
+    "lat": 35.0592,
+    "lng": -77.02,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/45,39/forecast/hourly"
+  },
+  {
+    "row": 155,
+    "city": "Wadesboro",
+    "lat": 34.9645,
+    "lng": -80.0746,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/26,14/forecast/hourly"
+  },
+  {
+    "row": 156,
+    "city": "Walkertown",
+    "lat": 36.1578,
+    "lng": -80.1642,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/17,67/forecast/hourly"
+  },
+  {
+    "row": 157,
+    "city": "Williamston",
+    "lat": 35.8468,
+    "lng": -77.0655,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/39,74/forecast/hourly"
+  },
+  {
+    "row": 158,
+    "city": "Sawmills",
+    "lat": 35.8162,
+    "lng": -81.4779,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/92,88/forecast/hourly"
+  },
+  {
+    "row": 159,
+    "city": "Mount Olive",
+    "lat": 35.1997,
+    "lng": -78.0662,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/97,33/forecast/hourly"
+  },
+  {
+    "row": 160,
+    "city": "Erwin",
+    "lat": 35.3226,
+    "lng": -78.6734,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/75,36/forecast/hourly"
+  },
+  {
+    "row": 161,
+    "city": "Ayden",
+    "lat": 35.4694,
+    "lng": -77.4167,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/28,55/forecast/hourly"
+  },
+  {
+    "row": 162,
+    "city": "Raeford",
+    "lat": 34.981,
+    "lng": -79.2291,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/56,19/forecast/hourly"
+  },
+  {
+    "row": 163,
+    "city": "Pleasant Garden",
+    "lat": 35.9595,
+    "lng": -79.7599,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/32,60/forecast/hourly"
+  },
+  {
+    "row": 164,
+    "city": "Long View",
+    "lat": 35.7217,
+    "lng": -81.3858,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/96,84/forecast/hourly"
+  },
+  {
+    "row": 165,
+    "city": "Farmville",
+    "lat": 35.5955,
+    "lng": -77.5913,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/21,60/forecast/hourly"
+  },
+  {
+    "row": 166,
+    "city": "Midway",
+    "lat": 35.9751,
+    "lng": -80.2204,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/16,58/forecast/hourly"
+  },
+  {
+    "row": 167,
+    "city": "Seven Lakes",
+    "lat": 35.2647,
+    "lng": -79.5865,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/42,30/forecast/hourly"
+  },
+  {
+    "row": 168,
+    "city": "Dallas",
+    "lat": 35.3167,
+    "lng": -81.1827,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/105,67/forecast/hourly"
+  },
+  {
+    "row": 169,
+    "city": "Ahoskie",
+    "lat": 36.2843,
+    "lng": -76.9898,
+    "apiurl": "https://api.weather.gov/gridpoints/AKQ/68,22/forecast/hourly"
+  },
+  {
+    "row": 170,
+    "city": "Royal Pines",
+    "lat": 35.4783,
+    "lng": -82.5038,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/57,69/forecast/hourly"
+  },
+  {
+    "row": 171,
+    "city": "Carolina Shores",
+    "lat": 33.9076,
+    "lng": -78.5738,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/67,50/forecast/hourly"
+  },
+  {
+    "row": 172,
+    "city": "Granite Falls",
+    "lat": 35.7966,
+    "lng": -81.4233,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/94,87/forecast/hourly"
+  },
+  {
+    "row": 173,
+    "city": "Spruce Pine",
+    "lat": 35.9104,
+    "lng": -82.0731,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/70,90/forecast/hourly"
+  },
+  {
+    "row": 174,
+    "city": "Edenton",
+    "lat": 36.058,
+    "lng": -76.6008,
+    "apiurl": "https://api.weather.gov/gridpoints/AKQ/83,14/forecast/hourly"
+  },
+  {
+    "row": 175,
+    "city": "Creedmoor",
+    "lat": 36.1223,
+    "lng": -78.6758,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/70,71/forecast/hourly"
+  },
+  {
+    "row": 176,
+    "city": "Wingate",
+    "lat": 34.9852,
+    "lng": -80.4497,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/133,55/forecast/hourly"
+  },
+  {
+    "row": 177,
+    "city": "Newport",
+    "lat": 34.772,
+    "lng": -76.8771,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/52,27/forecast/hourly"
+  },
+  {
+    "row": 178,
+    "city": "Boiling Springs",
+    "lat": 35.2521,
+    "lng": -81.6636,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/88,62/forecast/hourly"
+  },
+  {
+    "row": 179,
+    "city": "Wrightsboro",
+    "lat": 34.2895,
+    "lng": -77.9217,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/89,70/forecast/hourly"
+  },
+  {
+    "row": 180,
+    "city": "Bayshore",
+    "lat": 34.2893,
+    "lng": -77.8025,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/93,70/forecast/hourly"
+  },
+  {
+    "row": 181,
+    "city": "Jamestown",
+    "lat": 35.9985,
+    "lng": -79.9347,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/26,61/forecast/hourly"
+  },
+  {
+    "row": 182,
+    "city": "Cramerton",
+    "lat": 35.2344,
+    "lng": -81.0734,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/109,63/forecast/hourly"
+  },
+  {
+    "row": 183,
+    "city": "Beaufort",
+    "lat": 34.7308,
+    "lng": -76.6487,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/60,26/forecast/hourly"
+  },
+  {
+    "row": 184,
+    "city": "Valdese",
+    "lat": 35.7566,
+    "lng": -81.5634,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/89,85/forecast/hourly"
+  },
+  {
+    "row": 185,
+    "city": "Pittsboro",
+    "lat": 35.7256,
+    "lng": -79.1714,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/55,52/forecast/hourly"
+  },
+  {
+    "row": 186,
+    "city": "Shallotte",
+    "lat": 33.9759,
+    "lng": -78.3807,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/74,54/forecast/hourly"
+  },
+  {
+    "row": 187,
+    "city": "Canton",
+    "lat": 35.5515,
+    "lng": -82.8406,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/44,71/forecast/hourly"
+  },
+  {
+    "row": 188,
+    "city": "Brices Creek",
+    "lat": 35.0505,
+    "lng": -77.0844,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/43,38/forecast/hourly"
+  },
+  {
+    "row": 189,
+    "city": "Wallace",
+    "lat": 34.7379,
+    "lng": -77.9909,
+    "apiurl": "https://api.weather.gov/gridpoints/MHX/12,20/forecast/hourly"
+  },
+  {
+    "row": 190,
+    "city": "Bethlehem",
+    "lat": 35.8162,
+    "lng": -81.2962,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/99,88/forecast/hourly"
+  },
+  {
+    "row": 191,
+    "city": "China Grove",
+    "lat": 35.5718,
+    "lng": -80.5788,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/126,80/forecast/hourly"
+  },
+  {
+    "row": 192,
+    "city": "Mayodan",
+    "lat": 36.421,
+    "lng": -79.9676,
+    "apiurl": "https://api.weather.gov/gridpoints/RNK/77,30/forecast/hourly"
+  },
+  {
+    "row": 193,
+    "city": "Moyock",
+    "lat": 36.5166,
+    "lng": -76.1728,
+    "apiurl": "https://api.weather.gov/gridpoints/AKQ/95,37/forecast/hourly"
+  },
+  {
+    "row": 194,
+    "city": "Spindale",
+    "lat": 35.3599,
+    "lng": -81.9232,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/78,66/forecast/hourly"
+  },
+  {
+    "row": 195,
+    "city": "Mountain Home",
+    "lat": 35.3708,
+    "lng": -82.5021,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/57,64/forecast/hourly"
+  },
+  {
+    "row": 196,
+    "city": "Burgaw",
+    "lat": 34.5507,
+    "lng": -77.9224,
+    "apiurl": "https://api.weather.gov/gridpoints/ILM/87,81/forecast/hourly"
+  },
+  {
+    "row": 197,
+    "city": "Swannanoa",
+    "lat": 35.6008,
+    "lng": -82.3917,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/60,75/forecast/hourly"
+  },
+  {
+    "row": 198,
+    "city": "Westport",
+    "lat": 35.5103,
+    "lng": -80.9783,
+    "apiurl": "https://api.weather.gov/gridpoints/GSP/112,76/forecast/hourly"
+  },
+  {
+    "row": 199,
+    "city": "Randleman",
+    "lat": 35.8165,
+    "lng": -79.8066,
+    "apiurl": "https://api.weather.gov/gridpoints/RAH/31,53/forecast/hourly"
+  }
+]
+}

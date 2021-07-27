@@ -1,0 +1,699 @@
+ 
+body { 
+	font-family: Arial;
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h4 {
+	margin-top: 10px;
+	margin-bottom: -1px;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#usmap {
+	background: white;
+}
+
+div.c11 {
+	margin-top: -40px;
+}
+
+div.c10 {
+	float: left;
+	width: 30%;
+	border: 1px dotted #cecece;
+	padding: 20px 5px 0px 5px;
+	background-color: #fafafa
+}
+
+br.c9 {
+	clear: left;
+}
+
+p.c8 {
+	width: 650;
+	color: #000;
+	margin-top: -10px;
+	background-color: #fff;
+	font-size: 12px;
+	font-weight: bold
+}
+
+div.c7 {
+	float: left;
+	width: 70%;
+	border: 1px dotted #cecece;
+}
+
+div.c6 {
+	border-bottom: solid #999999;
+	min-height: 650px;
+}
+
+div.c5 {
+	border-bottom: solid #999999;
+	min-height: 650px;
+}
+
+div.c4 {
+	margin-top: -1px;
+}
+
+div.c3 {
+	float: left;
+	width: 1%;
+	background-color: #fff;
+	border: 1px dotted #cecece;
+	padding: 5px 5px 0px 5px;
+}
+
+div.c2 {
+	margin-top: -50px;
+	margin-left: 20%
+}
+
+p.c1 {
+	width: 650; 
+	background-color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	margin-left: 30px
+}
+
+div.fixedchks {
+	position: fixed;
+	bottom: 100px;
+	left: 40%;
+	width: 300px;
+	background-color: #fafafa;
+	border: 1px solid #73AD21;
+	z-index: 1
+}
+
+div.gobehind {
+	z-index: -1
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: grey;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+
+/* css to customize Leaflet default styles  */
+.popupOpt .leaflet-popup-tip,
+.popupOpt .leaflet-popup-content-wrapper {
+    background: #f9ffe3;
+    color: #aa0000;
+}  
+.mypic {  
+    margin-top:15px;
+}
+
+
+.selbutton {
+  background-color: #000;
+  border: 1 px grey;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.deselbutton {
+  background-color: #ddd;
+  border: 1 px grey;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.custom-select {
+  position: relative;
+  font-size: 14px;
+}
+
+.custom-select select {
+  display: none; /*hide original SELECT element:*/
+}
+
+.select-selected {
+  background-color: #000;
+}
+
+/*style the arrow inside the select element:*/
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+/*style the items (options), including the selected item:*/
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 14px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+  user-select: none;
+}
+
+/*style items (options):*/
+.select-items {
+  position: absolute;
+  background-color: #000;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/*hide the items when the select box is closed:*/
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+.plainbolds {
+  display: block;
+  position: relative;
+  padding-left: 1px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.bigplain { 
+  font-size:14px;
+  padding-left: 1px;
+  margin-bottom: 8px;
+  
+}
+
+.plainbold {
+  color: black;
+  font-size:14px;
+  padding-left: 4px;
+  margin-bottom: 8px;
+  
+}
+
+
+.plainboldblue {
+   color:blue;
+  font-size:14px;
+  padding-left: 4px;
+  margin-bottom: 8px;
+   
+}
+
+
+.checkcont {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 1px;
+  cursor: pointer;
+  font-size: 14px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.checkcont input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 12px;
+  width: 12px;
+  background-color: #eee;
+  border:1px solid gray;
+}
+
+/* On mouse-over, add a grey background color */
+.checkcont:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.checkcont input:checked ~ .checkmark {
+  background-color: #000;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.checkcont input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.checkcont .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+	.TFtable{
+		width:100%; 
+		border-collapse:collapse; 
+	}
+	.TFtable td{ 
+		padding:7px; border:#fff 0px solid;
+	}
+	/* provide some minimal visual accomodation for IE8 and below */
+	.TFtable tr{
+		background: #fff;
+	}
+	/*  Define the background color for all the ODD background rows  */
+	.TFtable tr:nth-child(odd){ 
+		background: #fafafa;
+	}
+	/*  Define the background color for all the EVEN background rows  */
+	.TFtable tr:nth-child(even){
+		background: #fff;
+	}
+ 
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+    
+    .x.axis path {
+      display: none;
+    }
+    
+    .line {
+      fill: none;
+      stroke: steelblue;
+      stroke-width: 1.5px;
+    }
+ 
+.borderedAlerts ul {
+	padding: 0px;
+    border: 1px solid gray;
+    width: 98.5%;
+    margin: 6px 0px;
+}
+.borderedAlerts ul div {
+padding: 6px;
+}
+.borderedAlerts ul div:hover{
+background:#fff !important;
+}
+.borderedAlerts ul:nth-of-type(2n+2) div{
+background:#ccc !important;
+}
+.borderedAlerts ul:nth-of-type(2n+2) div:hover{
+background:#ccc !important;
+}
+
+.ibm-refresh-link{
+color:rgb(65, 120, 190);
+font-size:12px;
+}
+
+#filter{
+height: 27px;
+}
+#map {
+	height: 100px;
+}
+ 
+.mycluster {
+	width: 20px;
+	height: 20px;
+	background-color: #f063fd;
+	text-align: center;
+	font-size: 24px;
+	}
+.alertsDetails {
+	width: 96%;
+    margin: 0px auto;
+    }
+.alertsDetails td {
+	border: 1px solid #ddd;
+    padding: 8px;
+}    
+   #leftbox { 
+                float:left;  
+                background:Red; 
+                width:5%; 
+                height:100%; 
+            } 
+            #middlebox{ 
+                float:left;  
+                background:Green; 
+                width:55%; 
+                height:100%; 
+            } 
+            #rightbox{ 
+                float:right; 
+                background:blue; 
+                width:40%; 
+                height:100%; 
+            } 
+             
+#map {
+	height: 100px;
+}
+.icon-button {
+	border: none;
+	padding: 0;
+}
+.icon-button i::before {
+	left: 0;
+	
+	position: relative;
+    top: 3px;
+} 
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: #666666;
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 200px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+ font-size:12px;
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%;
+  line-height: 35px;
+  font-size:12px;
+}
+
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+#defaultmap{ z-index:1; }
+#helpmodal{ z-index:2; }
+
+
+
+/* The Modal (background) */
+.modalinfo {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+ font-size:12px;
+}
+
+/* Modal Content */
+.modalinfo-content {
+ background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  line-height: 20px;
+  font-size:12px;
+}
+
+
+/* The Close Button */
+.infoclose {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.infoclose:hover,
+.infoclose:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+ 
+
+#myInput {
+  background-image: url('/img/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 95%;
+  font-size: 12px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#progress {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    left: 400px;
+    top: 300px;
+    width: 200px;
+    height: 20px;
+    margin-top: -20px;
+    margin-left: -100px;
+    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 4px;
+    padding: 2px;
+}
+
+#progress-bar {
+    width: 0;
+    height: 100%;
+    background-color: #76A6FC;
+    border-radius: 4px;
+}
+
+.leaflet-cluster-anim .leaflet-marker-icon, .leaflet-cluster-anim .leaflet-marker-shadow {
+	-webkit-transition: -webkit-transform 0.3s ease-out, opacity 0.3s ease-in;
+	-moz-transition: -moz-transform 0.3s ease-out, opacity 0.3s ease-in;
+	-o-transition: -o-transform 0.3s ease-out, opacity 0.3s ease-in;
+	transition: transform 0.3s ease-out, opacity 0.3s ease-in;
+}
+
+.leaflet-cluster-spider-leg {
+	/* stroke-dashoffset (duration and function) should match with leaflet-marker-icon transform in order to track it exactly */
+	-webkit-transition: -webkit-stroke-dashoffset 0.3s ease-out, -webkit-stroke-opacity 0.3s ease-in;
+	-moz-transition: -moz-stroke-dashoffset 0.3s ease-out, -moz-stroke-opacity 0.3s ease-in;
+	-o-transition: -o-stroke-dashoffset 0.3s ease-out, -o-stroke-opacity 0.3s ease-in;
+	transition: stroke-dashoffset 0.3s ease-out, stroke-opacity 0.3s ease-in;
+}
+.marker-cluster-small {
+	background-color: rgb(236, 160, 85);
+	}
+.marker-cluster-small div {
+	background-color:rgb(236, 160, 85);
+	}
+
+.marker-cluster-medium {
+	background-color:  rgb(236, 85, 85);
+	}
+.marker-cluster-medium div {
+	background-color:  rgb(236, 85, 85);
+	}
+
+.marker-cluster-large {
+	background-color:  rgb(193, 66, 66);
+	}
+.marker-cluster-large div {
+	background-color:  rgb(193, 66, 66);
+	}
+ 
+.leaflet-oldie .marker-cluster-small {
+	background-color: rgb(236, 160, 85);
+	}
+.leaflet-oldie .marker-cluster-small div {
+	background-color: rgb(236, 160, 85);
+	}
+
+.leaflet-oldie .marker-cluster-medium {
+	background-color: rgb(236, 85, 85);
+	}
+.leaflet-oldie .marker-cluster-medium div {
+	background-color: rgb(236, 85, 85);
+	}
+
+.leaflet-oldie .marker-cluster-large {
+	background-color: rgb(193, 66, 66);
+	}
+.leaflet-oldie .marker-cluster-large div {
+	background-color: rgb(193, 66, 66);
+}
+
+.marker-cluster {
+	background-clip: padding-box;
+	border-radius: 20px;
+	}
+.marker-cluster div {
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+
+	text-align: center;
+	border-radius: 15px;
+	font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	}
+.marker-cluster span {
+	line-height: 30px;
+	}
+	
+	
+.leaflet-tooltip.my-labels {
+  background-color: transparent;
+  border: transparent;
+  box-shadow: none;
+  color:black;
+  padding-left: 18px;
+  font-weight:bold;
+  font: 14px Arial, Helvetica, sans-serif;
+  
+  }
+  
+  
+  .datagrid table {
+	width: 100%; text-align: left; border-collapse: collapse;
+}
+.datagrid {
+	background: rgb(255, 255, 255); font: 12px/150% Arial, Helvetica, sans-serif; border-radius: 3px; border: 1px solid rgb(140, 140, 140); border-image: none; overflow: hidden; font-size-adjust: none; font-stretch: normal; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+.datagrid table td {
+	padding: 3px 10px;
+}
+.datagrid table th {
+	padding: 3px 10px;
+}
+.datagrid table tbody td {
+	color: rgb(125, 125, 125); font-size: 12px; font-weight: normal; border-left-color: rgb(219, 219, 219); border-left-width: 1px; border-left-style: solid;
+}
+.datagrid table tbody .alt td {
+	background: rgb(235, 235, 235); color: rgb(125, 125, 125);
+}
+.datagrid table tbody td:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.datagrid table tbody tr:last-child td {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
