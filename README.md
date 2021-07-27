@@ -20,9 +20,9 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-  - [The architecture](#the-architecture)
   - [IBM Services Used](#iBM-services-used)
   - [Open Data Sources used](#open-data-sources-used)
+  - [The architecture](#the-architecture)
   - [Long description](#long-description)
   	- [Web Based Dashboard](#web-based-dashboard)
     - [Jupyter Notebook Analysis?](#jupyter-notebook-analysis)  
@@ -35,7 +35,7 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
   - [Acknowledgments](#acknowledgments)
   
 
-## Risk Analysis, Prediction and Preparedness for Disaster Relief
+# Risk Analysis, Prediction and Preparedness for Disaster Relief
  
 
 
@@ -60,10 +60,8 @@ In recent times, technology has been employed to fast track disaster relief effo
 A web based dashboard which show all data points, forecasts, power outages - everything is in one place, constantly updating, so that decisions can be made faster and smarter. Other disaster relief groups can customize this platform to better understand their respective geographical regions by tracking weather patterns, COVID-19 cases and locations of the poorest, most vulnerable people, as well as sites of hospitals, airports, private airstrips and warehouses.
 
 
-### The architecture
-To-Do
 
-### IBM services used
+## IBM services used
 
 <ol>
 <li>IBM Cloud for Web-App Deploy</li>
@@ -79,7 +77,7 @@ To-Do
 </ol>
  
  
-### Open data sources used
+## Open data sources used
  <ul><li><a href="https://www.atsdr.cdc.gov/placeandhealth/svi/index.html">CDC/ATSDR Social Vulnerability Index</a></li></ul>
 <ul><li><a href="https://www.fema.gov/flood-maps/products-tools/national-risk-index">FEMA National Risk Index for Natural Hazards & Flood Index</a></li></ul> 
 <ul><li><a href="https://api.weather.gov/alerts/active?area=NC">NWS - Current Alerts For North Carolina</a></li> </ul>
@@ -88,7 +86,12 @@ To-Do
 <ul><li><a href="https://data.cdc.gov/resource/8xkx-amqh.json?recip_state=NC">Vaccination Data from CDC for North Carolina</a></li> </ul>
 <ul><li><a href="https://developer.foursquare.com/docs/places-api">Four-Square APIs for North Carolina Venues</a></li><ul>
 </ul>
-  
+
+
+## The architecture
+<img src="readme/arc.png" />
+
+
 ## Long description
 
 ### Day One Relief - Call for Code submission contains below projects 
@@ -144,15 +147,6 @@ TO-DO
 
 TO-DO
 
-
-## Built with
-
-- [IBM Cloud ](https://cloud.ibm.com/) - IBM Cloud for WebApp hosting
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [Leaflet](http://leaflet.org/) - The mapping framework used
-- [Maven](https://maven.apache.org/) - Dependency management
- 
- 
 
 ## Authors
 
