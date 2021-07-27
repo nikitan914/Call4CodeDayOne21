@@ -15,7 +15,7 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
 
 ## Contents
 
-- [Project name](#project-name) 
+- [Risk Analysis, Prediction and Preparedness for Disaster Relief](#project-name) 
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
@@ -35,10 +35,8 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
   - [Acknowledgments](#acknowledgments)
   
 
-## Project Name
-Risk Analysis, Prediction and Preparedness for Disaster Relief
-
-
+## Risk Analysis, Prediction and Preparedness for Disaster Relief
+ 
 
 
 ## Short description
@@ -88,7 +86,7 @@ To-Do
 <ul><li><a href="https://api.weather.gov/alerts">NWS - Current Temperatures & Forecast for North Carolina Cities</a></li> </ul>
 <ul><li><a href="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map">USGS - Elevation Data for North Carolina</a></li> </ul>
 <ul><li><a href="https://data.cdc.gov/resource/8xkx-amqh.json?recip_state=NC">Vaccination Data from CDC for North Carolina</a></li> </ul>
-<ul><li><a href="https://developer.foursquare.com/docs/places-api">Four-Square APIs for North Carolina Venues</a>/li><ul>
+<ul><li><a href="https://developer.foursquare.com/docs/places-api">Four-Square APIs for North Carolina Venues</a></li><ul>
 </ul>
   
 ## Long description
