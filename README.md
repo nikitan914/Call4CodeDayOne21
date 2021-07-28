@@ -5,12 +5,15 @@
 
 ### Day One Relief - Supporting community resiliency through all stages of disaster
  
-
+<img align="right" width="300" height="200" src="readme/day1pics.png">
+ 
 Through strong community relationships, Day One Relief serves disaster-impacted populations. Since each disaster is unique, a relief solution that is predictable, repeatable and systematic in nature has been identified as what’s needed to make an improved impact.
 
 Day One Relief was founded in September 2018, during Hurricane Florence, in order to rapidly source and deliver supplies via air and road to those affected by the storm. Our formation came as a result of our efforts spearheading the rapid response at the TAC AIR terminal at RDU. We brought together volunteer pilots and NGOs who have been on the ground in eastern NC, some for 45+ years. We raised the supply and engaged the community, resulting in 1500 volunteers throughout the week.
 
-We are working on creating racial equity in the vaccine rollout. We are phonebanking, canvassing, and helping organize vaccine clinics with vaccine providers, HBCUs and DHHS.
+We are working on creating racial equity in the vaccine rollout. We are phonebanking, canvassing, and helping organize vaccine clinics with vaccine providers, HBCUs and DHHS. 
+
+
 
 
 ## Contents
@@ -25,7 +28,8 @@ We are working on creating racial equity in the vaccine rollout. We are phoneban
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   	- [Web Based Dashboard](#web-based-dashboard)
-    - [Jupyter Notebook Analysis?](#jupyter-notebook-analysis)  
+  	- [Data extract scripts](#data-extract-scripts)
+    - [Jupyter Notebook Analysis](#jupyter-notebook-analysis)  
   - [Demo video](#demo-video) 
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
@@ -88,7 +92,7 @@ A web based dashboard which show all data points, forecasts, power outages - eve
 
 
 ## The architecture
-<img src="readme/arc.png" />
+<img src="readme/arch.png" />
 
 
 ## Long description
@@ -130,8 +134,11 @@ And Critical locations, Venues and current temperatures & daily forecast for top
 <img src="readme/ven.png" />
 <img src="readme/tem.png" />
 
+### Jupyter Notebook Analysis
+TO-DO
 
-
+### Data extract scripts
+TO-DO
 
 
 ## Demo video  
