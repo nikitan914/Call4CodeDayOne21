@@ -5,7 +5,7 @@
 
 ### Day One Relief - Supporting community resiliency through all stages of disaster
  
-<img align="right" width="300" height="200" src="readme/day1pics.png">
+<img align="right"  src="readme/day1pics.png">
  
 Through strong community relationships, Day One Relief serves disaster-impacted populations. Since each disaster is unique, a relief solution that is predictable, repeatable and systematic in nature has been identified as what’s needed to make an improved impact.
 
@@ -142,7 +142,7 @@ TO-DO
 
 
 ## Demo video  
-[![Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=N3nRpCcQiWE)
+[![Demo](readme/nri.png)](https://www.youtube.com/watch?v=N3nRpCcQiWE)
 
 
 ## Project roadmap
