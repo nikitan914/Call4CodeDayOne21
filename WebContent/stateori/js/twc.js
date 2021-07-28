@@ -1,20 +1,4 @@
-/*
- * Copyright Header Check
- *
- * Licensed Materials – Property of IBM
- * 
- * Product(s): IBM Supply Chain Risk Insights, Powered by Watson
- *
- * IPSC Code : 6949-05J 
- *         
- * (C)Copyright IBM Corp. 2018-2019   All Right Reserved 
- * 
- * US Government Users Restricted Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
- * 
- * Please do not remove any of these commented lines.  
- * 
- * 
- */
+//Author: Nikita Nangia
 
 var productData;
 

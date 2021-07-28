@@ -150,7 +150,7 @@ Python Web scraping is a technique to automatically access and extract large amo
 
 
 ## Demo video  
-[![Demo](readme/nrithumb.png)](https://www.youtube.com/watch?v=N3nRpCcQiWE)
+[![Demo](readme/nrithumb.png)](https://www.youtube.com/watch?v=8TwQTW77duA)
 
 
 ## Project roadmap

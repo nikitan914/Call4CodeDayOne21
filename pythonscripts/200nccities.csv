@@ -1,0 +1,201 @@
+city,county_name,lat,lng
+Charlotte,Mecklenburg,35.208,-80.8304
+Raleigh,Wake,35.8325,-78.6435
+Durham,Durham,35.9794,-78.9031
+Winston-Salem,Forsyth,36.1029,-80.2611
+Greensboro,Guilford,36.0956,-79.8269
+Fayetteville,Cumberland,35.0846,-78.9776
+Asheville,Buncombe,35.5704,-82.5536
+Concord,Cabarrus,35.3933,-80.6366
+Wilmington,New Hanover,34.21,-77.8866
+Hickory,Catawba,35.7425,-81.323
+Gastonia,Gaston,35.2494,-81.1853
+High Point,Guilford,35.9907,-79.9938
+Cary,Wake,35.782,-78.8191
+Burlington,Alamance,36.0758,-79.4686
+Greenville,Pitt,35.5956,-77.3768
+Jacksonville,Onslow,34.7288,-77.3941
+Chapel Hill,Orange,35.927,-79.0391
+Rocky Mount,Nash,35.9676,-77.8048
+Apex,Wake,35.7239,-78.8728
+Huntersville,Mecklenburg,35.4058,-80.8727
+Goldsboro,Wayne,35.3778,-77.972
+New Bern,Craven,35.0955,-77.0723
+Kannapolis,Cabarrus,35.4764,-80.6403
+Morehead City,Carteret,34.7308,-76.7387
+Wilson,Wilson,35.7312,-77.9284
+Pinehurst,Moore,35.1922,-79.4684
+Wake Forest,Wake,35.9629,-78.5141
+Indian Trail,Union,35.0698,-80.6457
+Asheboro,Randolph,35.7158,-79.8129
+Mooresville,Iredell,35.5849,-80.8265
+Holly Springs,Wake,35.653,-78.8397
+Monroe,Union,35.0061,-80.5595
+Sanford,Lee,35.4874,-79.1772
+Salisbury,Rowan,35.6656,-80.4909
+Matthews,Mecklenburg,35.1195,-80.7101
+Smithfield,Johnston,35.5131,-78.3497
+Garner,Wake,35.6934,-78.6196
+Fuquay-Varina,Wake,35.5958,-78.7794
+Cornelius,Mecklenburg,35.4725,-80.8801
+Morrisville,Wake,35.8367,-78.8348
+Lumberton,Robeson,34.6312,-79.0186
+Mint Hill,Mecklenburg,35.1782,-80.6533
+Statesville,Iredell,35.7842,-80.8714
+Shelby,Cleveland,35.2904,-81.5451
+Kinston,Lenoir,35.2748,-77.5936
+Thomasville,Davidson,35.8813,-80.0807
+Boone,Watauga,36.2111,-81.6668
+Forest City,Rutherford,35.3338,-81.8702
+Clayton,Johnston,35.6591,-78.4499
+Kernersville,Forsyth,36.1066,-80.0844
+Lincolnton,Lincoln,35.4747,-81.2385
+Leland,Brunswick,34.2044,-78.0277
+Rockingham,Richmond,34.9386,-79.7608
+Elizabeth City,Pasquotank,36.2943,-76.2361
+Roanoke Rapids,Halifax,36.4452,-77.6491
+Carrboro,Orange,35.926,-79.0878
+Kill Devil Hills,Dare,36.0167,-75.6699
+Clemmons,Forsyth,36.0319,-80.3861
+Havelock,Craven,34.9078,-76.8987
+Swansboro,Onslow,34.6958,-77.1368
+Henderson,Vance,36.3259,-78.4155
+Laurinburg,Scotland,34.7597,-79.4781
+Wendell,Wake,35.7823,-78.3962
+Mount Airy,Surry,36.5083,-80.6154
+Lexington,Davidson,35.8017,-80.2682
+North Wilkesboro,Wilkes,36.1728,-81.139
+Lenoir,Caldwell,35.9096,-81.5247
+Knightdale,Wake,35.7918,-78.4955
+Butner,Granville,36.1285,-78.7502
+Albemarle,Stanly,35.3594,-80.1915
+Waxhaw,Union,34.9364,-80.7438
+Morganton,Burke,35.7408,-81.7003
+Harrisburg,Cabarrus,35.3124,-80.6486
+Murraysville,New Hanover,34.2919,-77.8429
+Eden,Rockingham,36.5028,-79.7412
+Mebane,Alamance,36.0857,-79.2763
+Mount Holly,Gaston,35.3136,-81.0072
+Stallings,Union,35.1088,-80.6597
+Washington,Beaufort,35.5587,-77.0545
+Archer Lodge,Johnston,35.6907,-78.3749
+Hope Mills,Cumberland,34.969,-78.9559
+Graham,Alamance,36.0596,-79.3892
+Dunn,Harnett,35.3113,-78.6129
+Southern Pines,Moore,35.1927,-79.404
+Lewisville,Forsyth,36.103,-80.4164
+Hendersonville,Henderson,35.3242,-82.4576
+Reidsville,Rockingham,36.3377,-79.6727
+Oak Island,Brunswick,33.9434,-78.1366
+Piney Green,Onslow,34.7498,-77.3208
+Brevard,Transylvania,35.2439,-82.7264
+Marion,McDowell,35.6774,-82.0013
+Newton,Catawba,35.663,-81.2333
+Davidson,Mecklenburg,35.4846,-80.8252
+Tarboro,Edgecombe,35.9046,-77.5563
+Belmont,Gaston,35.2211,-81.0402
+Elon,Alamance,36.1014,-79.5085
+Spring Lake,Cumberland,35.1842,-78.9959
+Archdale,Randolph,35.9033,-79.9592
+Summerfield,Guilford,36.1973,-79.8997
+Weddington,Union,35.0228,-80.7383
+Kings Mountain,Cleveland,35.2348,-81.3501
+Myrtle Grove,New Hanover,34.123,-77.8834
+Waynesville,Haywood,35.4854,-82.9995
+Winterville,Pitt,35.5287,-77.3994
+Oxford,Granville,36.3155,-78.5848
+Roxboro,Person,36.3879,-78.9812
+Siler City,Chatham,35.7252,-79.4561
+St. Stephens,Catawba,35.7641,-81.2746
+Clinton,Sampson,35.0005,-78.3311
+Wesley Chapel,Union,34.9985,-80.6905
+Pineville,Mecklenburg,35.0864,-80.8915
+Kings Grant,New Hanover,34.2665,-77.8659
+Conover,Catawba,35.7155,-81.217
+Rolesville,Wake,35.9224,-78.4656
+Ogden,New Hanover,34.2656,-77.7965
+Fletcher,Henderson,35.4316,-82.5038
+Half Moon,Onslow,34.8298,-77.4591
+Lake Norman of Catawba,Catawba,35.5995,-80.984
+Black Mountain,Buncombe,35.6142,-82.3275
+Aberdeen,Moore,35.135,-79.4326
+Etowah,Henderson,35.3061,-82.5902
+Porters Neck,New Hanover,34.2942,-77.7695
+Mills River,Henderson,35.3853,-82.5854
+Pembroke,Robeson,34.6766,-79.1934
+Gibsonville,Guilford,36.0991,-79.5417
+Whiteville,Columbus,34.3306,-78.7013
+Franklin,Macon,35.1798,-83.3808
+Unionville,Union,35.0716,-80.5173
+Hillsborough,Orange,36.0681,-79.0994
+Selma,Johnston,35.5436,-78.2954
+Oak Ridge,Guilford,36.174,-79.9916
+King,Stokes,36.2766,-80.3564
+Marvin,Union,34.989,-80.8032
+Woodfin,Buncombe,35.6458,-82.5914
+Cherryville,Gaston,35.3844,-81.3781
+Trinity,Randolph,35.8756,-80.0093
+Elkin,Surry,36.2621,-80.8441
+Silver Lake,New Hanover,34.1408,-77.909
+Carolina Beach,New Hanover,34.0396,-77.8966
+Cullowhee,Jackson,35.3107,-83.1815
+Tabor City,Columbus,34.1538,-78.8737
+Hamlet,Richmond,34.8891,-79.7099
+Boiling Spring Lakes,Brunswick,34.0322,-78.068
+St. James,Brunswick,33.9467,-78.1132
+Zebulon,Wake,35.8318,-78.3162
+Hampstead,Pender,34.3627,-77.7318
+East Flat Rock,Henderson,35.2802,-82.4171
+Bessemer City,Gaston,35.2841,-81.283
+Nashville,Nash,35.9692,-77.9555
+Taylorsville,Alexander,35.9175,-81.1754
+Stokesdale,Guilford,36.2318,-79.9834
+Manteo,Dare,35.9013,-75.661
+Angier,Harnett,35.512,-78.7405
+Mocksville,Davie,35.9006,-80.5631
+James City,Craven,35.0592,-77.02
+Wadesboro,Anson,34.9645,-80.0746
+Walkertown,Forsyth,36.1578,-80.1642
+Williamston,Martin,35.8468,-77.0655
+Sawmills,Caldwell,35.8162,-81.4779
+Mount Olive,Wayne,35.1997,-78.0662
+Erwin,Harnett,35.3226,-78.6734
+Ayden,Pitt,35.4694,-77.4167
+Raeford,Hoke,34.981,-79.2291
+Pleasant Garden,Guilford,35.9595,-79.7599
+Long View,Catawba,35.7217,-81.3858
+Farmville,Pitt,35.5955,-77.5913
+Midway,Davidson,35.9751,-80.2204
+Seven Lakes,Moore,35.2647,-79.5865
+Dallas,Gaston,35.3167,-81.1827
+Ahoskie,Hertford,36.2843,-76.9898
+Royal Pines,Buncombe,35.4783,-82.5038
+Carolina Shores,Brunswick,33.9076,-78.5738
+Granite Falls,Caldwell,35.7966,-81.4233
+Spruce Pine,Mitchell,35.9104,-82.0731
+Edenton,Chowan,36.058,-76.6008
+Creedmoor,Granville,36.1223,-78.6758
+Wingate,Union,34.9852,-80.4497
+Newport,Carteret,34.772,-76.8771
+Boiling Springs,Cleveland,35.2521,-81.6636
+Wrightsboro,New Hanover,34.2895,-77.9217
+Bayshore,New Hanover,34.2893,-77.8025
+Jamestown,Guilford,35.9985,-79.9347
+Cramerton,Gaston,35.2344,-81.0734
+Beaufort,Carteret,34.7308,-76.6487
+Valdese,Burke,35.7566,-81.5634
+Pittsboro,Chatham,35.7256,-79.1714
+Shallotte,Brunswick,33.9759,-78.3807
+Canton,Haywood,35.5515,-82.8406
+Brices Creek,Craven,35.0505,-77.0844
+Wallace,Duplin,34.7379,-77.9909
+Bethlehem,Alexander,35.8162,-81.2962
+China Grove,Rowan,35.5718,-80.5788
+Mayodan,Rockingham,36.421,-79.9676
+Moyock,Currituck,36.5166,-76.1728
+Spindale,Rutherford,35.3599,-81.9232
+Mountain Home,Henderson,35.3708,-82.5021
+Burgaw,Pender,34.5507,-77.9224
+Swannanoa,Buncombe,35.6008,-82.3917
+Westport,Lincoln,35.5103,-80.9783
+Randleman,Randolph,35.8165,-79.8066

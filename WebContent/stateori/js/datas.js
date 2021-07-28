@@ -1,3 +1,5 @@
+//Author: Nikita Nangia
+
 var ncriskpop=[
 	['Alamance',151131,18.18638362,'Relatively Moderate',27.33849312,'Relatively Moderate',423.5433519],
 	['Alexander',37198,8.055224524,'Very Low',9.899907115,'Very Low',260.0023065],
