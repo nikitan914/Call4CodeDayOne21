@@ -72,8 +72,8 @@ A web based dashboard which show all data points, forecasts, power outages - eve
 
 <li>IBM Cloud PAK For Data
 <ul>
-<li>Watson Studio - Jupitor Notebook for prediction Analysis</li>
-<li>Auto-AI for analyzes Weather forecast Data and generating candidate machine learning models </li>
+<li>Watson Studio - Jupyter Notebook for data extraction, cleansing and prediction analysis</li>
+<li>Auto-AI for analyzing  weather forecast data and generating candidate machine learning models </li>
 </ul>
 </li> 
 
