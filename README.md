@@ -195,13 +195,13 @@ IBM® Eclipse Tools for Bluemix® provides plug-ins that can be installed into an 
 
 7. To deploy the application on IBM Cloud:
 	
-	[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-helloworld)
+	[![Deploy to IBM CLOUD](readme/ibmcloud.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-helloworld)
 	
 
 ## Authors
 
 1. Jil Christensen
-2. Nikita Nangia
+2. [Nikita Nangia](https://github.com/nikitan914)
 3. Zachary Haugan
 4. Isshaan Oren Pilant
 
