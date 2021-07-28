@@ -135,10 +135,18 @@ And Critical locations, Venues and current temperatures & daily forecast for top
 <img src="readme/tem.png" />
 
 ### Jupyter Notebook Analysis
-TO-DO
+
+In the IBM Cloud Pak for Data - IBM Watson Studio, you can create Python, Scala, and R notebooks to analyze your data.Jupyter notebooks provide an interactive computational environment for developing Python based Data Science applications. Jupyter notebooks can illustrate the analysis process step by step by arranging the stuff like code, images, text, output etc. in a step by step manner. We are using Watson Studio Jupyter Notebook for predicting which NC counties will be most at risk from a Hurricane or Tropical Storm.
+
+
 
 ### Data extract scripts
-TO-DO
+
+For this project, we are using data from many datasources, in different formats like csv, json etc. To generate high-quality analysis we need to ensure that we are cleaning data in order to accurately represent the dataset. Pandas offer a diverse range of built-in functions that can be used to clean and manipulate datasets prior to analysis. It can allow you to drop incomplete rows and columns, fill missing values and improve the readability of the dataset through category renaming.
+
+Foursquare API provides a range of tools for developers to incorporate the up-to-date location data to enhance their projects. The Places API offers real-time access to Foursquare’s global database of rich venue data and user content to power location-based experiences in app. In this project, we are using the Places API for extracting venues like Parks, Schools, Churches in North Carolina.
+
+Python Web scraping is a technique to automatically access and extract large amounts of information from a website. In this project, we are using web scraping to extract power outage information for North Carolina
 
 
 ## Demo video  
@@ -151,8 +159,44 @@ TO-DO
 
 ## Getting started
 
-TO-DO
+### Developing and Deploying using Eclipse
 
+IBM® Eclipse Tools for Bluemix® provides plug-ins that can be installed into an existing Eclipse environment to assist in integrating the developer's integrated development environment (IDE) with Bluemix.
+
+1. Download and install  [IBM Eclipse Tools for Bluemix](https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Eclipse_Tools_for_Bluemix).
+
+2. Import this app into Eclipse using `File` -> `Import` -> `git import` -> `clone url` option.
+
+3. Create a Liberty server definition:
+  - In the `Servers` view right-click -> `New` -> `Server`
+  - Select `IBM` -> `WebSphere Application Server Liberty`
+  - Choose `Install from an archive or a repository`
+  - Enter a destination path (/Users/username/liberty)
+  - Choose `WAS Liberty with Java EE 7 Web Profile`
+  - Continue the wizard with default options to Finish
+
+4. Run your application locally on Liberty:
+  - Right click on the `stateori`  and select `Run As` -> `Run on Server` option
+  - Find and select the localhost Liberty server and press `Finish`
+  - In a few seconds, your application should be running at http://localhost:9080/stateori/
+
+5. Create a Bluemix server definition:
+  - In the `Servers` view, right-click -> `New` -> `Server`
+  - Select `IBM` -> `IBM Bluemix` and follow the steps in the wizard.\
+  - Enter your credentials and click `Next`
+  - Select your `org` and `space` and click `Finish`
+
+6. Run your application on Bluemix:
+  - Right click on the application and select `Run As` -> `Run on Server` option
+  - Find and select the `IBM Bluemix` and press `Finish`
+  - A wizard will guide you with the deployment options. Be sure to choose a unique `Name` for your application
+  - In a few minutes, your application should be running at the URL you chose.
+
+
+7. To deploy the application on IBM Cloud:
+	
+	[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-helloworld)
+	
 
 ## Authors
 
@@ -168,6 +212,11 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 ## Acknowledgments
 
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+- How to create and deploy a simple [webapp on IBM Cloud](https://github.com/IBM-Cloud/java-helloworld).
+
+
+
+
 
  
  
