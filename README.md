@@ -138,6 +138,16 @@ And Critical locations, Venues and current temperatures & daily forecast for top
 
 In the IBM Cloud Pak for Data - IBM Watson Studio, you can create Python, Scala, and R notebooks to analyze your data.Jupyter notebooks provide an interactive computational environment for developing Python based Data Science applications. Jupyter notebooks can illustrate the analysis process step by step by arranging the stuff like code, images, text, output etc. in a step by step manner. We are using Watson Studio Jupyter Notebook for predicting which NC counties will be most at risk from a Hurricane or Tropical Storm.
 
+With all the data and indexes available , we  can calculate which areas will need more attention in case of a hurricane,  We are doing this for a Zip code level, North Carolina has 802 zip codes, based on SVI, NRI, Population and the elevation data, we can calculated the most vulnerable areas. Next based on 15 day Forecast from National Weather Service and National Hurricane Service, we can calculate the areas that will need more focus. Finally, if any ot the areas is facing power outages, we can highlight that.
+
+#### Unclassfied alerts for North Carolina from National Weather Service
+<img src="readme/unclass.png" width="1000px" height="400px" />
+
+
+#### Classfied alerts for North Carolina from National Weather Service, drawn over current power outages
+<img src="readme/class.png"  width="1000px" height="400px" />
+
+
 
 
 ### Data extract scripts
@@ -155,7 +165,17 @@ Python Web scraping is a technique to automatically access and extract large amo
 
 ## Project roadmap
 
-TO-DO
+Our state dashboard consolidates thousands of static data sets with multi-level dynamic risk analysis onto an easily digestible dashboard that disaster response leaders can use to prioritize the most vulnerable during relief efforts. 
+
+Moving forward: With IBM’s powerful cognitive computing technology, we aim to utilize Watson’s machine learning capabilities to generate a single composite metric of risk based on the numerous variables specific to each zone on the state dashboard–counties or zip codes in the future. Then, at the time of a risk event, Watson’s algorithm will provide the user with a score for each zone, highlighting those areas which are most at risk, and allowing users to spend precious hours on directing relief efforts rather than losing time on complex risk assessment done manually. 
+
+We intend to allow easy integration of new data so that stakeholders may prioritize hazards or distribution points most crucial to them. For example, concentrated animal feeding operations, or hog farms, which are ubiquitous in North Carolina, can become severe risks during flood events when tons of manure and wastewater are discharged into clean water sources. The EPA provides data and locations for the whole state and once these data sets are loaded, Watson could tell us which zones are likely to face contamination of drinking water, often a major issue in the aftermath of heavy storms. 
+
+With enough data, Watson should be able to produce a more accurate index of social vulnerability than is displayed by either the CDC’s SVI or FEMA’s NRI, due to the thoroughness and speed by which risk assessment may be calculated algorithmically. 
+
+<img  src="readme/ORI C4C_Roadmap.png" width="600px" height="1500px" />
+
+
 
 ## Getting started
 
@@ -201,7 +221,7 @@ IBM® Eclipse Tools for Bluemix® provides plug-ins that can be installed into an 
 ## Authors
 
 1. Jil Christensen
-2. [Nikita Nangia](https://github.com/nikitan914)
+2. Nikita Nangia
 3. Zachary Haugan
 4. Isshaan Oren Pilant
 
